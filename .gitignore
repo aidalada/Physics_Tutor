@@ -1,0 +1,44 @@
+# ── Python ───────────────────────────────────────────────────────────
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual Environments ────────────────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── Environment Secrets (CRITICAL: NEVER COMMIT) ───────────────────
+.env
+.env*.local
+*.env
+!.env.example
+
+# ── Node / Next.js ──────────────────────────────────────────────────
+node_modules/
+.next/
+out/
+.pnp
+.pnp.js
+
+# ── Testing / Coverage ──────────────────────────────────────────────
+.pytest_cache/
+htmlcov/
+.coverage
+*.tsbuildinfo
+next-env.d.ts
+
+# ── IDEs & Editors ──────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── OS Files ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
