@@ -97,7 +97,7 @@ export default function Home() {
       {/* ── Footer ─────────────────────────────────────────────── */}
       <footer className="border-t border-zinc-200 bg-white py-4">
         <p className="text-center text-xs text-zinc-400">
-          PhysCheck AI · Сократтық оқыту жүйесі · {new Date().getFullYear()}
+          PhysMentor · Сократтық оқыту жүйесі · {new Date().getFullYear()}
         </p>
       </footer>
     </div>

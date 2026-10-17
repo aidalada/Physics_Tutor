@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "PhysCheck AI — Физика есептерін тексеру",
+  title: "PhysMentor — Физика есептерін тексеру",
   description:
     "Қолмен жазылған физика есептерін жасанды интеллект арқылы талдау және Сократтық бағыттау.",
 };

@@ -7,7 +7,7 @@ from app.api.v1.endpoints import router as v1_router
 from app.config import settings
 
 app = FastAPI(
-    title="Physics AI Tutor API",
+    title="PhysMentor API",
     version="1.0.0",
     description=(
         "MVP backend that accepts a photo of a handwritten physics solution, "

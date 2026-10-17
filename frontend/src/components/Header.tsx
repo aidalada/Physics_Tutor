@@ -13,7 +13,7 @@ export default function Header() {
           </div>
           <div className="flex items-baseline gap-2">
             <h1 className="text-lg font-bold tracking-tight text-zinc-900">
-              PhysCheck AI
+              PhysMentor
             </h1>
             <span className="hidden sm:inline-flex items-center rounded-full bg-indigo-50 px-2 py-0.5 text-[11px] font-medium text-indigo-600 ring-1 ring-indigo-200">
               Socratic Beta

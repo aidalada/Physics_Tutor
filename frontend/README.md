@@ -1,4 +1,4 @@
-# PhysCheck AI — Frontend
+# PhysMentor — Frontend
 
 Қолмен жазылған физика есептерін AI арқылы тексеретін сервістің фронтенд бөлігі.
 
